@@ -1,6 +1,5 @@
 # Mini-Brick-Game
 Mini Brick Game application - description
-
 Apache Ant in Apache NetBeans IDE 12.3 was used to create the mini-game
 The game is modeled on the very famous arkanoid game, the project was built on Java from scratch, 
 it is the first version and very basic.
@@ -16,6 +15,6 @@ All rights to the code reserved!
 
 Contact with me
 [e-mail] marcin.sk090@gmail.com
-[linkedin] https://www.linkedin.com/in/marcin-substyk-8bb40517a
+[linkedin] https://pl.linkedin.com/in/marcin-substyk-993520218
 [twitter] @MichuBlogg
 [Github] https://github.com/Magikit
